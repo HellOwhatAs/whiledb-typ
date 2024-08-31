@@ -1,0 +1,16 @@
+[package]
+name = "whiledb"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["HellOwhatAs"]
+license = "MIT"
+description = "WhileDB"
+
+homepage = "https://github.com/HellOwhatAs/nom_learn"
+repository = "https://github.com/HellOwhatAs/nom_learn"
+keywords = [
+    "wasm",
+    "rust",
+    "WhileDB",
+    "Intepreter"
+]
